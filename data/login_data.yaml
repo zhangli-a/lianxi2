@@ -1,0 +1,29 @@
+test_login1:
+  test_login1_001:
+    name: "zhangsan"
+    age: "18"
+    phone: "188"
+  test_login1_002:
+    name: "lisi"
+    age: "19"
+    phone: "199"
+test_login2:
+  test_login2_001:
+    name: "wangwu"
+  test_login2_002:
+    neme: "zjaoliu"
+  test_login2_003:
+    neme: "qianqi"
+test_login3:
+  test_login3_001:
+    a: "1"
+    b: "2"
+  test_login3_002:
+    a: "2"
+    b: "3"
+  test_login3_003:
+    a: "3"
+    b: "4"
+  test_login3_004:
+    a: "4"
+    b: "5"
